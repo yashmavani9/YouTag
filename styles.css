@@ -1,0 +1,19 @@
+/* styles.css */
+
+#playlist-note-container {
+    padding: 16px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+}
+
+#noteText {
+    width: 100%;
+    min-height: 80px;
+    resize: vertical;
+}
+
+/* 
+document.querySelector("#page-manager > ytd-browse > yt-page-header-renderer > yt-page-header-view-model > div.page-header-view-model-wiz__page-header-content")
+
+document.querySelector("#page-manager > ytd-browse > yt-page-header-renderer > yt-page-header-view-model > div.page-header-view-model-wiz__page-header-content > div.page-header-view-model-wiz__page-header-headline") */
